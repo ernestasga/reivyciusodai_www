@@ -1,0 +1,19 @@
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Font awesome
+@import '~@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '~@fortawesome/fontawesome-free/scss/solid.scss';
+@import '~@fortawesome/fontawesome-free/scss/brands.scss';
+
+// Custom CSS
+@import 'custom';
+@import 'contact';
+@import 'product_slider';
+@import 'ribbons';
+@import 'search';
+
+
